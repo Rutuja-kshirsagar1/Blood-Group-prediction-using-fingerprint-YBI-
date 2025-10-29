@@ -132,9 +132,6 @@ MIT License
 
 ## Credits
 
-- Developed by Your Name/Team
-- Fingerprint dataset from [Source]
+- Developed by rutuja kshirsagar
+- Fingerprint dataset from https://www.kaggle.com/datasets/rajumavinmar/finger-print-based-blood-group-dataset
 
-## Screenshots
-
-[Add screenshots of your application here] 
